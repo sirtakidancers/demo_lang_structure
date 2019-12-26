@@ -1,0 +1,5 @@
+msgid "referring website"
+msgstr "с какого сайта перешли на сайт"
+
+msgid "Website information"
+msgstr "Данные с сайта"

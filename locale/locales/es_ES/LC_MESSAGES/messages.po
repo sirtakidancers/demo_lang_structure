@@ -1,0 +1,5 @@
+msgid "referring website"
+msgstr "sitio web de referencia"
+
+msgid "Website information"
+msgstr "Información del sitio web"
