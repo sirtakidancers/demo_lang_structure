@@ -1,5 +1,5 @@
-msgid "referring website"
-msgstr "с какого сайта перешли на сайт"
+msgid "error"
+msgstr "Ошибка"
 
-msgid "Website information"
-msgstr "Данные с сайта"
+msgid "error.general"
+msgstr "Произошла ошибка во время выполнения запроса. Пожалуйста, повторите запрос позже"
